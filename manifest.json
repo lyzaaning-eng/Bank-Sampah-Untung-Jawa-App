@@ -1,0 +1,21 @@
+{
+  "short_name": "EcoUntung",
+  "name": "Eco Untung Jawa - Bank Sampah",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3299/3299906.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3299/3299906.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#16a34a",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}

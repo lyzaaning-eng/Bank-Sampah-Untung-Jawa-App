@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Eco Untung Jawa - Bank Sampah Wisata_App",
+  "description": "Aplikasi pemilahan sampah cerdas berbasis AI untuk Desa Wisata Pulau Untung Jawa. Pilah sampah, dapatkan poin, dan tukarkan di UMKM lokal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
